@@ -11,7 +11,7 @@
     "@sap-cloud-sdk/resilience": "^3.18.0",
     "@sap-cloud-sdk/util": "^3.18.0",
     "@sap/cds": "7.2.0",
-    "@sap/cds-dk": "7.6.0",
+    "@sap/cds-dk": "8.4.2",
     "express": "^4",
     "passport": "^0.7.0"
   },
